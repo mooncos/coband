@@ -92,7 +92,7 @@ GenerateClassCluster=0
 DocumentUniqueId=UWXJYKZI
 
 [Document4]
-DocumentPath=..\..\bme680.SchDoc
+DocumentPath=bme680.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
