@@ -42,7 +42,7 @@ PrefsRevisionGUID=
 
 [Document1]
 DocumentPath=sgpc3.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -59,7 +59,7 @@ DocumentUniqueId=BMQHWSJK
 
 [Document2]
 DocumentPath=main.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -76,7 +76,7 @@ DocumentUniqueId=OBYWDTWI
 
 [Document3]
 DocumentPath=power_supply.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -93,7 +93,7 @@ DocumentUniqueId=MBRKSTHK
 
 [Document4]
 DocumentPath=adxl362.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -110,7 +110,7 @@ DocumentUniqueId=UWXJYKZI
 
 [Document5]
 DocumentPath=bme680.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -127,7 +127,7 @@ DocumentUniqueId=WKFVYLMA
 
 [Document6]
 DocumentPath=biomedical_sensoring.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -144,7 +144,7 @@ DocumentUniqueId=BJMGEBRS
 
 [Document7]
 DocumentPath=cc2640.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -158,6 +158,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UAEBWKKD
+
+[Document8]
+DocumentPath=rf_if.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GHZBHJJK
 
 [Configuration1]
 Name=Sources
@@ -1071,7 +1088,7 @@ L17=WNNNNNNNWNNNWWWWN
 
 [Annotate]
 SortOrder=3
-SortLocation=0
+SortLocation=1
 ReplaceSubparts=0
 MatchParameter1=Comment
 MatchStrictly1=1
