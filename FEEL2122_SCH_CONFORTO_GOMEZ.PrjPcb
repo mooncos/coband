@@ -353,48 +353,48 @@ GenerateClassCluster=0
 DocumentUniqueId=GHKAHPBT
 
 [Parameter1]
-Name=Address_City
-Value=Madrid
+Name=VersionRevision
+Value=v1.0
 
 [Parameter2]
-Name=Address_Country
-Value=Spain
+Name=Project
+Value=CoBand
 
 [Parameter3]
-Name=Address_Phone
-Value=
+Name=License
+Value=MIT
 
 [Parameter4]
-Name=Address_State_ZIP
+Name=E-mail
 Value=
 
 [Parameter5]
-Name=Address_Street
-Value=
+Name=Company
+Value=ETSIT-UPM
 
 [Parameter6]
 Name=Address_Website
 Value=
 
 [Parameter7]
-Name=Company
-Value=ETSIT-UPM
+Name=Address_Street
+Value=
 
 [Parameter8]
-Name=E-mail
+Name=Address_State_ZIP
 Value=
 
 [Parameter9]
-Name=License
-Value=MIT
+Name=Address_Phone
+Value=
 
 [Parameter10]
-Name=Project
-Value=CoBand
+Name=Address_Country
+Value=Spain
 
 [Parameter11]
-Name=VersionRevision
-Value=v1.0
+Name=Address_City
+Value=Madrid
 
 [Configuration1]
 Name=Sources
@@ -996,6 +996,36 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
+OutputType12=Ansoft Neutral
+OutputName12=Ansoft Neutral (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=HyperLynx
+OutputName13=HyperLynx (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Orcad v7 Capture Design
+OutputName14=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=P-CAD ASCII
+OutputName15=P-CAD ASCII (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=P-CAD V16 Schematic Design
+OutputName16=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SiSoft
+OutputName17=SiSoft (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1044,7 +1074,7 @@ Type32=1
 Type33=1
 Type34=1
 Type35=1
-Type36=1
+Type36=0
 Type37=1
 Type38=1
 Type39=1
