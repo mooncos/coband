@@ -35,12 +35,6 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=1
-CrossRefLocationStyle=1
-CrossRefPorts=3
-CrossRefCrossSheets=1
-CrossRefSheetEntries=0
-CrossRefFollowFromMainSettings=1
 
 [Preferences]
 PrefsVaultGUID=
@@ -352,49 +346,53 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GHKAHPBT
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\Design Rule Check - PCBROS.html
+DItemRevisionGUID=
+
 [Parameter1]
-Name=VersionRevision
-Value=v1.0
+Name=Address_City
+Value=Madrid
 
 [Parameter2]
-Name=Project
-Value=CoBand
+Name=Address_Country
+Value=Spain
 
 [Parameter3]
-Name=License
-Value=MIT
+Name=Address_Phone
+Value=
 
 [Parameter4]
-Name=E-mail
+Name=Address_State_ZIP
 Value=
 
 [Parameter5]
-Name=Company
-Value=ETSIT-UPM
+Name=Address_Street
+Value=
 
 [Parameter6]
 Name=Address_Website
 Value=
 
 [Parameter7]
-Name=Address_Street
-Value=
+Name=Company
+Value=ETSIT-UPM
 
 [Parameter8]
-Name=Address_State_ZIP
+Name=E-mail
 Value=
 
 [Parameter9]
-Name=Address_Phone
-Value=
+Name=License
+Value=MIT
 
 [Parameter10]
-Name=Address_Country
-Value=Spain
+Name=Project
+Value=CoBand
 
 [Parameter11]
-Name=Address_City
-Value=Madrid
+Name=VersionRevision
+Value=v1.0
 
 [Configuration1]
 Name=Sources
@@ -448,7 +446,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Brother MFC-J497DW Printer (Copiar 1)
+TargetPrinter=HP Photosmart 5510 series (Red)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -554,7 +552,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Brother MFC-J497DW Printer (Copiar 1)
+TargetPrinter=HP Photosmart 5510 series (Red)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -632,7 +630,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Brother MFC-J497DW Printer (Copiar 1)
+TargetPrinter=HP Photosmart 5510 series (Red)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -654,7 +652,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Brother MFC-J497DW Printer (Copiar 1)
+TargetPrinter=HP Photosmart 5510 series (Red)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Board Stack Report
 OutputName1=Report Board Stack
@@ -726,7 +724,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Brother MFC-J497DW Printer (Copiar 1)
+TargetPrinter=HP Photosmart 5510 series (Red)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -787,7 +785,7 @@ OutputDefault8=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Brother MFC-J497DW Printer (Copiar 1)
+TargetPrinter=HP Photosmart 5510 series (Red)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -895,7 +893,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Brother MFC-J497DW Printer (Copiar 1)
+TargetPrinter=HP Photosmart 5510 series (Red)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -939,7 +937,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Brother MFC-J497DW Printer (Copiar 1)
+TargetPrinter=HP Photosmart 5510 series (Red)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -996,41 +994,11 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Brother MFC-J497DW Printer (Copiar 1)
+TargetPrinter=HP Photosmart 5510 series (Red)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
