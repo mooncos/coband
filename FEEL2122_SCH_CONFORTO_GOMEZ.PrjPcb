@@ -35,6 +35,12 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
+CrossRefSheetStyle=1
+CrossRefLocationStyle=1
+CrossRefPorts=3
+CrossRefCrossSheets=1
+CrossRefSheetEntries=0
+CrossRefFollowFromMainSettings=1
 
 [Preferences]
 PrefsVaultGUID=
@@ -347,24 +353,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GHKAHPBT
 
 [Document19]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document20]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_ncdrill.Cam
+DocumentPath=FEEL2122_SCH_CONFORTO_GOMEZ2.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -381,115 +370,235 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\Design Rule Check - PCBROS.html
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\BOM\Bill of Materials-FEEL2122_SCH_CONFORTO_GOMEZ.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS-Plated.TXT
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\Design Rule Check - PCBROS.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS.DRR
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\NC Drill\PCBROS-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS.EXTREP
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCBROS-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS.LDP
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\NC Drill\PCBROS.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS.REP
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCBROS.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS.RUL
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Copper_Plane_1.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Copper_Plane_2.gbr
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\DRC\PCBROS.html
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for Free Documents\DRC\PCBROS.html
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\NC Drill\PCBROS.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Keep-out.gbr
+DocumentPath=Project Outputs for Free Documents\NC Drill\PCBROS.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Legend_Bot.gbr
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS.REP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Legend_Top.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS.REP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Mechanical_1.gbr
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Mechanical_2.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Mechanical_4.gbr
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Copper_Plane_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Mechanical_6.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Copper_Plane_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Mechanical_8.gbr
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Copper_Plane_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Mechanical_13.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Copper_Plane_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Mechanical_15.gbr
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Pads_Bot.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Pads_Top.gbr
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Paste_Bot.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Paste_Top.gbr
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Profile.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Soldermask_Bot.gbr
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\PCBROS_Soldermask_Top.gbr
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Mechanical_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Mechanical_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Mechanical_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Mechanical_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Mechanical_4.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Mechanical_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Mechanical_6.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Mechanical_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Mechanical_8.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Mechanical_13.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Mechanical_15.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Pads_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Pads_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for FEEL2122_SCH_CONFORTO_GOMEZ\GerberX2\PCBROS_Soldermask_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for Free Documents\GerberX2\PCBROS_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [Parameter1]
@@ -588,7 +697,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=HP Photosmart 5510 series (Red)
+TargetPrinter=Brother MFC-J497DW Printer (Copiar 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CadnetixNetlist
 OutputName1=Cadnetix Netlist
@@ -694,7 +803,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP Photosmart 5510 series (Red)
+TargetPrinter=Brother MFC-J497DW Printer (Copiar 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -772,7 +881,7 @@ PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HP Photosmart 5510 series (Red)
+TargetPrinter=Brother MFC-J497DW Printer (Copiar 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -794,7 +903,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP Photosmart 5510 series (Red)
+TargetPrinter=Brother MFC-J497DW Printer (Copiar 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -874,7 +983,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HP Photosmart 5510 series (Red)
+TargetPrinter=Brother MFC-J497DW Printer (Copiar 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -947,7 +1056,7 @@ OutputDefault8=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=HP Photosmart 5510 series (Red)
+TargetPrinter=Brother MFC-J497DW Printer (Copiar 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -1055,7 +1164,7 @@ PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=HP Photosmart 5510 series (Red)
+TargetPrinter=Brother MFC-J497DW Printer (Copiar 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_Violations
 OutputName1=BOM Checks Report
@@ -1099,7 +1208,7 @@ OutputDefault7=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=HP Photosmart 5510 series (Red)
+TargetPrinter=Brother MFC-J497DW Printer (Copiar 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -1160,7 +1269,7 @@ OutputDefault11=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=HP Photosmart 5510 series (Red)
+TargetPrinter=Brother MFC-J497DW Printer (Copiar 1)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
